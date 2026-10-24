@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>to print hello </title>
+</head>
+<body>
+<header>
+
+    <h4>Registration Form</h4> 
+    <p>PROJECT </p>
+</header>
+<main>
+    <section>Bachelor of Science in Computer Science</section>
+    <section>experience in web development</section>
+       <article>my story : i m a web develper 4 years experience
+         <a href="https://www.google.com" target="_main"><img src="https://freebiesupply.com/logos/google-logo/" alt="google"height="500"
+             width="500"></a>
+             
+             
+<body></body>
+        <aside>this is an ad</aside>
+       </article>
+</main>
+<div><p>hello, world!</p></div>
+<p>salam </p>
+<p>welcome to  my project </p>
+<form action="/"action.php"> 
+    <input type="text" name="name" placeholder="user name "> 
+    <br>
+
+    <input type="password" name="password" placeholder="password">
+    <br>
+
+
+    <input type="radio"value="class  x1"name="class"id=>class x1
+    <br>
+
+
+    <input type="radio"value="class  x2"name="class"id=>class x2
+
+    <label for=""math>
+
+    </label>
+
+<input  type="checkbox" value="math" name="subject" id="101">math
+<label for="science">
+    <br>
+</label>
+<input type="checkbox"value="science"name="subject"id="102">science
+<label for="english">
+    <br>
+</label>
+<input type="checkbox" value="english" name="subject" id="103">english
+<label for="urdu">
+    <br><br>
+</label>
+<input type="checkbox" value="urdu" name="subject" id="104">urdi
+<label for="islamic">
+</label>
+<br><br>
+<input type="checkbox" value="islamic" name="subject" id="105">islamic
+</label>
+<br><br>
+select your city
+<select name="city"id="">
+    <option value="bannu">bannu</option>
+    <option value="swabi">swabi</option>
+    <option value="islamabad">islamabad</option>
+    <option value="peshawar">peshawar</option>
+</select>
+<br>
+
+<textarea name ="feedback" id="101" placeholder="please give your feedback here">feedback</textarea>
+<br>
+<input type="submit" value="Submit">
+</iframe>
+"
+<video>src="https://youtu.be/UmnCZ7-9yDY?si=csivD6hWe3yYFUZ7"my video</video>
+<video src="my video"></video>
+</footer>
+<body></body>
+<html></html
